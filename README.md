@@ -93,7 +93,3 @@ See `public/assets/ASSET_REPLACEMENT_GUIDE.md` for detailed instructions on repl
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## License
-
-Private project for Hogg Group.
