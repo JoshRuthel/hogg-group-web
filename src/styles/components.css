@@ -120,7 +120,6 @@
   gap: var(--spacing-4xl);
   align-items: center;
   width: 100%;
-  /* overflow-x: hidden; */
 }
 
 .hero-content h1 {
@@ -315,7 +314,6 @@
   max-width: var(--container-max-width);
   margin: 0 auto;
   width: 100%;
-  overflow-x: hidden;
 }
 
 .service-card {
@@ -455,7 +453,6 @@
   gap: var(--spacing-4xl);
   align-items: start;
   width: 100%;
-  /* overflow-x: hidden; */
 }
 
 .dashboard-showcase-content {
@@ -511,7 +508,6 @@
   gap: var(--spacing-4xl);
   align-items: center;
   width: 100%;
-  overflow-x: hidden;
 }
 
 .business-cards {
